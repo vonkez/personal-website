@@ -1,4 +1,4 @@
-# Personal Portfolio website
+# Personal Portfolio Website
 
 Fork of Cleanfolio
 

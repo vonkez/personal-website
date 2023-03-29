@@ -9,7 +9,7 @@ import tetris1 from "./images/tetris1.png"
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://vonkez.github.io/',
+  homepage: 'https://alkimkivanccivi.com.tr/',
   title: 'JS.',
 }
 
