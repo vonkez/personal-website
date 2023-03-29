@@ -20,7 +20,7 @@ const about = {
     'I\'m currently student in Başkent University Computer Engineering department. In 2021, I graduated from Başkent University Computer Programming department with first place. ' +
     "I'm highly interested in working with mobile and web apps. I created mobile apps, web apps, chat bots and scraping tools as hobby projects. You can see some of them below. " +
     "",
-  resume: 'https://example.com',
+  resume: 'https://alkimkivanccivi.com.tr/Alkim-Kivanc-Civi-CV-EN.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/alk%C4%B1m-k%C4%B1van%C3%A7-%C3%A7ivi/',
     github: 'https://github.com/vonkez',
