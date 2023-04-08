@@ -56,7 +56,7 @@ const projects = [
   {
     name: 'Tetris-pygame',
     description:
-        'Tetris game make using Python and Pygame.',
+        'Tetris game made using Python and Pygame.',
     stack: ['Python', 'Pygame'],
     sourceCode: 'https://github.com/vonkez/Tetris-pygame',
     images: [tetris1]
