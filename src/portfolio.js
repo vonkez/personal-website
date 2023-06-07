@@ -22,7 +22,7 @@ const about = {
     "",
   resume: 'https://alkimkivanccivi.com.tr/Alkim-Kivanc-Civi-CV-EN.pdf',
   social: {
-    linkedin: 'https://www.linkedin.com/in/alk%C4%B1m-k%C4%B1van%C3%A7-%C3%A7ivi/',
+    linkedin: 'https://www.linkedin.com/in/alkim-kivanc-civi/',
     github: 'https://github.com/vonkez',
   },
 }
