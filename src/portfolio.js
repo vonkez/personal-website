@@ -1,3 +1,6 @@
+import kizuna1 from "./images/kizuna1.png"
+import kizuna2 from "./images/kizuna2.png"
+import eknasil1 from "./images/eknasil1.png"
 import tetherer1 from "./images/tetherer1.png"
 import tetherer2 from "./images/tetherer2.png"
 import tetherer3 from "./images/tetherer3.png"
@@ -38,13 +41,20 @@ const projects = [
     images: [mangadex1]
   },
   {
-    name: 'ISOHTEL 2023',
+    name: 'Ekonomi Nasıl?',
     description:
-      'Introductory website for a symposium.',
-    stack: ['HTML', 'CSS', 'JS', 'Bootstrap'],
-    livePreview: 'https://isohtel.com',
-    images: [isohtel1]
-
+        'Website for comparing the purchasing power of different countries.',
+    stack: ['TypeScript', 'Next.js', 'React', 'Mantine'],
+    livePreview: 'https://ekonominasil.com/',
+    images: [eknasil1],
+  },
+  {
+    name: 'Kizuna',
+    description:
+        'Mobile messaging app for Android.',
+    stack: ['Kotlin', 'Compose', 'Ktor', 'PostgreSQL', 'Firebase', 'Websockets'],
+    sourceCode: 'https://github.com/vonkez/Kizuna',
+    images: [kizuna1, kizuna2],
   },
   {
     name: 'Tetherer',
@@ -76,6 +86,17 @@ const projects = [
         'Web app for language learning. Made for Language Tree Erasmus+ project. ' ,
     stack: ['Typescript', 'React', 'Material UI', 'Express.js', 'PostgreSQL', 'TypeOrm', 'Docker'],
   },
+  {
+    name: 'ISOHTEL 2023',
+    description:
+        'Introductory website for a symposium.',
+    stack: ['HTML', 'CSS', 'JS', 'Bootstrap'],
+    livePreview: 'https://isohtel.com',
+    images: [isohtel1]
+
+  },
+
+
 ]
 
 const skills = [
@@ -88,13 +109,19 @@ const skills = [
   'Kotlin',
   'Dart',
   'Node.js',
+  'Next.js',
   'React',
   'Flutter',
   'Compose',
+  'Websockets',
+  'REST',
   'Express.js',
+  'Ktor',
   'Material UI',
+  'Mantine',
   'TailwindCSS',
   'PostgreSQL',
+  'MongoDB',
   'Git',
   'Docker',
 ]
