@@ -1,4 +1,4 @@
-FROM node:lts as builder
+FROM node:16.16 as builder
 
 COPY . .
 RUN yarn install
